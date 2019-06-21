@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4049ee0-d1c4-41f1-bbf6-63e1dfa061f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../online_exam/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/reg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/api/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/data/exam_choice.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/111.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Exam/Exam.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Exam/ExamPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Exam/ExamStu.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Exam/ccc.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Home/Children/GoReg.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Home/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/May/11.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/May/examReal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Reg/Reg.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Teacher/Teacher.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Teacher/child/AddExam.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Teacher/child/AddTitle.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Teacher/child/Chart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Teacher/child/Checking.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Teacher/child/CreateSort.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Teacher/child/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Teacher/child/MyExam.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Teacher/child/MyTitle.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Teacher/child/UserInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/pages/Teacher/child/setScore.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/store/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/store/getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/store/mutation-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/store/mutations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/src/store/state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/css/chat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/css/jquery.mCustomScrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/css/sign.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/fonts/lk.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/fonts/lk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/fonts/lk.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/fonts/lk.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/airbnb-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/bloomberg-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/exam-ad1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/exam-ad2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/exam-ad3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/exam-ad4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/exam-ad5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/exambg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/facebook-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/ft_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/google-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/header-ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/header-logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/i_r6_c6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/ibm-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/icons_0_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/index_top_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/iphoneX2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/lk_favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/log-pwd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/macBook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/ok_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/ok_no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/paypal-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/pkulogo_grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/reg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/slide_01_2000x410.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/slide_01_640x340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/slide_02_2000x310.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/slide_02_2000x410.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/slide_02_640x340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/slide_03_2000x410.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/slide_03_640x340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/swift-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/teacherbg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/images/walmart-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/layDate/laydate/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/layDate/laydate/theme/default/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/layDate/laydate/theme/default/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/layDate/laydate/theme/default/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/layDate/laydate/theme/default/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/layDate/laydate/theme/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/layDate/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/layDate/文档/官网.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/layDate/文档/文档.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/layDate/文档/社区.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/layDate/更新日志.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/bootstrap/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/html5shiv/html5shiv-printshiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/html5shiv/html5shiv-printshiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/html5shiv/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/html5shiv/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/jquery/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/respond/respond.matchmedia.addListener.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/respond/respond.matchmedia.addListener.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/respond/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../online_exam/static/public/lib/respond/respond.src.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1594385093">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="125" />
+          <entry key="project.open.time.0" value="17" />
+          <entry key="project.open.time.1" value="7" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="6" />
+          <entry key="project.open.time.23" value="6" />
+          <entry key="project.open.time.24" value="9" />
+          <entry key="project.open.time.25" value="4" />
+          <entry key="project.open.time.26" value="5" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="3" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.30" value="3" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="37" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="127" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="js" value="24" />
+          <entry key="json" value="19" />
+          <entry key="www" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="JSON" value="18" />
+          <entry key="JavaScript" value="31" />
+          <entry key="tsconfig" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="3271" />
+          <entry key="json" value="82" />
+          <entry key="www" value="249" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="82" />
+          <entry key="JavaScript" value="3520" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1551776004">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1816842383">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-492361542">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="1" />
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1708250242">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exam_online/routes/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="721" column="78" selection-start-line="721" selection-start-column="78" selection-end-line="721" selection-end-column="78" />
+              <folding>
+                <element signature="e#452#1421#0" />
+                <element signature="e#1183#1417#0" />
+                <element signature="e#1582#2499#0" />
+                <element signature="e#2655#3603#0" />
+                <element signature="e#3904#4258#0" />
+                <element signature="e#4520#4618#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/exam_online/data/exam_choice.json" />
+        <option value="$PROJECT_DIR$/exam_online/data/exam_fill.json" />
+        <option value="$PROJECT_DIR$/exam_online/data/exam_ask.json" />
+        <option value="$PROJECT_DIR$/exam_online/data/exam_material.json" />
+        <option value="$PROJECT_DIR$/exam_online/data/sub_content.json" />
+        <option value="$PROJECT_DIR$/exam_online/bin/www" />
+        <option value="$PROJECT_DIR$/exam_online/routes/canshu.js" />
+        <option value="$PROJECT_DIR$/exam_online/routes/index.js" />
+        <option value="$PROJECT_DIR$/exam_online/public/index.html" />
+        <option value="$PROJECT_DIR$/exam_online/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/exam_online/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/exam_online/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="15" />
+    <option name="width" value="1685" />
+    <option name="height" value="898" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="服务器" type="b2602c69:ProjectViewProjectNode" />
+              <item name="服务器" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="服务器" type="b2602c69:ProjectViewProjectNode" />
+              <item name="服务器" type="462c0819:PsiDirectoryNode" />
+              <item name="exam_online" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="服务器" type="b2602c69:ProjectViewProjectNode" />
+              <item name="服务器" type="462c0819:PsiDirectoryNode" />
+              <item name="exam_online" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="服务器" type="b2602c69:ProjectViewProjectNode" />
+              <item name="服务器" type="462c0819:PsiDirectoryNode" />
+              <item name="exam_online" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="服务器" type="b2602c69:ProjectViewProjectNode" />
+              <item name="服务器" type="462c0819:PsiDirectoryNode" />
+              <item name="exam_online" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="服务器" type="b2602c69:ProjectViewProjectNode" />
+              <item name="服务器" type="462c0819:PsiDirectoryNode" />
+              <item name="exam_online" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="服务器" type="b2602c69:ProjectViewProjectNode" />
+              <item name="服务器" type="462c0819:PsiDirectoryNode" />
+              <item name="exam_online" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\王一桥\Desktop\online_exam\服务器\exam_online\public" />
+      <recent name="C:\Users\王一桥\Desktop\online_exam\服务器\exam_online\public\static" />
+      <recent name="C:\毕设\在线考试\服务器\exam_online\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="www" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="www" working-dir="$PROJECT_DIR$/exam_online/bin">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.www" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4049ee0-d1c4-41f1-bbf6-63e1dfa061f1" name="Default Changelist" comment="" />
+      <created>1553242720194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553242720194</updated>
+      <workItem from="1553242721865" duration="4000" />
+      <workItem from="1553317017094" duration="1853000" />
+      <workItem from="1553322680777" duration="62000" />
+      <workItem from="1553322770640" duration="155000" />
+      <workItem from="1553323846363" duration="1295000" />
+      <workItem from="1553330830913" duration="3877000" />
+      <workItem from="1553407417327" duration="1867000" />
+      <workItem from="1553418911606" duration="1171000" />
+      <workItem from="1553420364380" duration="601000" />
+      <workItem from="1553476258591" duration="6548000" />
+      <workItem from="1553485552942" duration="7178000" />
+      <workItem from="1553562999448" duration="10060000" />
+      <workItem from="1553577676339" duration="3940000" />
+      <workItem from="1553649875063" duration="4393000" />
+      <workItem from="1553735457397" duration="3843000" />
+      <workItem from="1553747086313" duration="5480000" />
+      <workItem from="1553821739235" duration="16914000" />
+      <workItem from="1553922839963" duration="2117000" />
+      <workItem from="1553933148314" duration="3042000" />
+      <workItem from="1553957438822" duration="710000" />
+      <workItem from="1554008446586" duration="1050000" />
+      <workItem from="1554017923683" duration="1560000" />
+      <workItem from="1554081385547" duration="603000" />
+      <workItem from="1554108067696" duration="162000" />
+      <workItem from="1554453087966" duration="624000" />
+      <workItem from="1554872305572" duration="691000" />
+      <workItem from="1554879265391" duration="855000" />
+      <workItem from="1554975807565" duration="756000" />
+      <workItem from="1555040449688" duration="1410000" />
+      <workItem from="1555058991792" duration="628000" />
+      <workItem from="1555074953254" duration="1003000" />
+      <workItem from="1555139370479" duration="607000" />
+      <workItem from="1555147518659" duration="3090000" />
+      <workItem from="1555232855752" duration="4448000" />
+      <workItem from="1555249548248" duration="631000" />
+      <workItem from="1555309872416" duration="186000" />
+      <workItem from="1555313552626" duration="1251000" />
+      <workItem from="1555404495976" duration="4083000" />
+      <workItem from="1555496628989" duration="517000" />
+      <workItem from="1555498032055" duration="2698000" />
+      <workItem from="1555553328303" duration="655000" />
+      <workItem from="1555656199295" duration="800000" />
+      <workItem from="1555669831476" duration="625000" />
+      <workItem from="1555737222421" duration="673000" />
+      <workItem from="1555744927962" duration="616000" />
+      <workItem from="1555825090126" duration="835000" />
+      <workItem from="1555839790211" duration="1101000" />
+      <workItem from="1555910376444" duration="612000" />
+      <workItem from="1555935280848" duration="635000" />
+      <workItem from="1555997068536" duration="743000" />
+      <workItem from="1556025919647" duration="606000" />
+      <workItem from="1556081002258" duration="6742000" />
+      <workItem from="1556106852056" duration="2643000" />
+      <workItem from="1556168301380" duration="2345000" />
+      <workItem from="1556193429594" duration="1622000" />
+      <workItem from="1556259113694" duration="1208000" />
+      <workItem from="1556268755228" duration="627000" />
+      <workItem from="1556282967510" duration="612000" />
+      <workItem from="1556340988641" duration="777000" />
+      <workItem from="1556359417899" duration="1198000" />
+      <workItem from="1556376655484" duration="613000" />
+      <workItem from="1556426336018" duration="1268000" />
+      <workItem from="1556458987743" duration="2770000" />
+      <workItem from="1556516410807" duration="4005000" />
+      <workItem from="1556546331231" duration="1216000" />
+      <workItem from="1556601107717" duration="2713000" />
+      <workItem from="1556615837650" duration="134000" />
+      <workItem from="1556616328836" duration="1270000" />
+      <workItem from="1556624177560" duration="4642000" />
+      <workItem from="1556689451215" duration="13444000" />
+      <workItem from="1556712519181" duration="4733000" />
+      <workItem from="1556767064292" duration="2904000" />
+      <workItem from="1556779924221" duration="9610000" />
+      <workItem from="1556801479779" duration="4649000" />
+      <workItem from="1556853831971" duration="1203000" />
+      <workItem from="1556863042790" duration="1905000" />
+      <workItem from="1556875136720" duration="623000" />
+      <workItem from="1556888708682" duration="1559000" />
+      <workItem from="1556942352936" duration="601000" />
+      <workItem from="1556954508725" duration="1667000" />
+      <workItem from="1556982521008" duration="630000" />
+      <workItem from="1557025337549" duration="602000" />
+      <workItem from="1557033297531" duration="622000" />
+      <workItem from="1557054269386" duration="4293000" />
+      <workItem from="1557064271875" duration="1178000" />
+      <workItem from="1557119771742" duration="1198000" />
+      <workItem from="1557130564707" duration="1669000" />
+      <workItem from="1557137447875" duration="1567000" />
+      <workItem from="1557148705451" duration="602000" />
+      <workItem from="1557209346671" duration="413000" />
+      <workItem from="1557209776541" duration="17000" />
+      <workItem from="1557214553786" duration="1278000" />
+      <workItem from="1557228300812" duration="606000" />
+      <workItem from="1557233523098" duration="621000" />
+      <workItem from="1557288477233" duration="603000" />
+      <workItem from="1557296519660" duration="6837000" />
+      <workItem from="1557389109218" duration="605000" />
+      <workItem from="1557392193811" duration="619000" />
+      <workItem from="1557399793480" duration="604000" />
+      <workItem from="1557406030387" duration="611000" />
+      <workItem from="1557563321847" duration="3000" />
+      <workItem from="1557666263894" duration="47000" />
+      <workItem from="1557809765190" duration="645000" />
+      <workItem from="1557816568659" duration="2414000" />
+      <workItem from="1558175390407" duration="616000" />
+      <workItem from="1558251498711" duration="1198000" />
+      <workItem from="1558264390221" duration="606000" />
+      <workItem from="1558325372218" duration="614000" />
+      <workItem from="1558407671611" duration="686000" />
+      <workItem from="1558424787063" duration="2167000" />
+      <workItem from="1558503624664" duration="1421000" />
+      <workItem from="1558529850446" duration="641000" />
+      <workItem from="1558582775771" duration="607000" />
+      <workItem from="1558599991622" duration="691000" />
+      <workItem from="1558608802536" duration="618000" />
+      <workItem from="1558668986964" duration="1801000" />
+      <workItem from="1558755783153" duration="1570000" />
+      <workItem from="1558840027861" duration="8039000" />
+      <workItem from="1558919072229" duration="13965000" />
+      <workItem from="1559005162131" duration="616000" />
+      <workItem from="1559010128893" duration="10325000" />
+      <workItem from="1559054156849" duration="650000" />
+      <workItem from="1559105713328" duration="9300000" />
+      <workItem from="1559177813423" duration="7269000" />
+      <workItem from="1559223286397" duration="1987000" />
+      <workItem from="1559261892992" duration="629000" />
+      <workItem from="1559266229782" duration="3099000" />
+      <workItem from="1559279108423" duration="600000" />
+      <workItem from="1560860331091" duration="240000" />
+      <workItem from="1560860800942" duration="2978000" />
+      <workItem from="1561041148771" duration="1108000" />
+      <workItem from="1561079582219" duration="640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="292132000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16587427" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981511" weight="0.23269013" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954597" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291714" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3291714" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50184894" side_tool="true" weight="0.2292849" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exam_online/data/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/exam_online/data/exam_choice.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2457">
+          <caret line="91" column="70" selection-start-line="91" selection-start-column="70" selection-end-line="91" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/data/exam_fill.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/data/exam_ask.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="80" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/util/sms_util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/data/exam_material.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="16" column="177" selection-start-line="16" selection-start-column="177" selection-end-line="16" selection-end-column="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1863" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/data/sub_content.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/node_modules/mysql/lib/protocol/Parser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/routes/canshu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa8560.23624/Checkboxes/index.html" />
+    <entry file="file://$PROJECT_DIR$/exam_online/db/db.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../csshover20160410/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1863" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/public/static/css/app.ec876639f774a0498fdbed149b2cbeb7.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="872" selection-start-column="872" selection-end-column="872" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exam_online/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="721" column="78" selection-start-line="721" selection-start-column="78" selection-end-line="721" selection-end-column="78" />
+          <folding>
+            <element signature="e#452#1421#0" />
+            <element signature="e#1183#1417#0" />
+            <element signature="e#1582#2499#0" />
+            <element signature="e#2655#3603#0" />
+            <element signature="e#3904#4258#0" />
+            <element signature="e#4520#4618#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
